@@ -1,0 +1,412 @@
+Opened file [korean 2.8c_un.w3x] 
+  Loading [war3map.j]... done (6289476 extracted)
+  Loading [scripts\war3map.j]... not found 
+  Loading [war3map.wts]... done (1701525 extracted)
+  Loading [war3map.w3u]... done (234517 extracted)
+  Loading [war3map.w3a]... done (743408 extracted)
+  Loading [war3map.w3t]... done (165431 extracted)
+  Loading [war3map.w3h]... done (19501 extracted)
+  Loading [war3map.w3q]... done (29917 extracted)
+
+Parsing units
+Parsing abilities
+Parsing items
+Parsing buffs
+Parsing upgrades
+
+Opened file [korean 2.9a_un.w3x] 
+  Loading [war3map.j]... done (6346684 extracted)
+  Loading [scripts\war3map.j]... not found 
+  Loading [war3map.wts]... done (1730391 extracted)
+  Loading [war3map.w3u]... done (235637 extracted)
+  Loading [war3map.w3a]... done (751824 extracted)
+  Loading [war3map.w3t]... done (167874 extracted)
+  Loading [war3map.w3h]... done (19983 extracted)
+  Loading [war3map.w3q]... done (29917 extracted)
+
+Parsing units
+Parsing abilities
+Parsing items
+Parsing buffs
+Parsing upgrades
+
+Building trees ... done
+
+Searching for removed units
+Searching for changed units
+  Object [h000] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [n000] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [n01C] was changed
+    Conflicting modification IDs were... 
+      umdl, unam, usei
+  Object [n01D] was changed
+    Conflicting modification IDs were... 
+      umdl
+  Object [h019] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h01B] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h01N] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h023] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h02C] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h03T] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h03Y] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h03Z] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h040] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h041] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h042] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h047] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h04G] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h04H] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h04I] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h04J] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h04K] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h04L] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h04M] was changed
+    Conflicting modification IDs were... 
+      uabi
+  Object [h04N] was changed
+    Conflicting modification IDs were... 
+      uabi
+Searching for added units
+  Object [e0AU] was added
+  Object [h04O] was added
+  Object [h04P] was added
+Searching for removed abilities
+Searching for changed abilities
+  Object [A0D0] was changed
+    Conflicting modification IDs were... 
+      aub1 1
+  Object [A0EL] was changed
+    Conflicting modification IDs were... 
+      aub1 1
+  Object [A0ES] was changed
+    Conflicting modification IDs were... 
+      aub1 1, aub1 10, aub1 2, aub1 3, aub1 4, aub1 5, aub1 6, aub1 7, aub1 8, aub1 9
+  Object [A0G8] was changed
+    Conflicting modification IDs were... 
+      aub1 1
+  Object [A09F] was changed
+    Conflicting modification IDs were... 
+      atp1 2, atp1 3, atp1 4, atp1 5
+  Object [A09G] was changed
+    Conflicting modification IDs were... 
+      atp1 2, atp1 3, atp1 4, atp1 5
+  Object [A0JG] was changed
+    Conflicting modification IDs were... 
+      aub1 1, aub1 2, aub1 3, aub1 4, aub1 5, aub1 6, aub1 7, aub1 8, aub1 9
+  Object [A0KB] was changed
+    Conflicting modification IDs were... 
+      arut
+  Object [A0KD] was changed
+    Conflicting modification IDs were... 
+      atp1 10
+  Object [A0B0] was changed
+    Conflicting modification IDs were... 
+      arut, atp1 10, aub1 1, aub1 2, aub1 3, aub1 4, aub1 5, aub1 6, aub1 7, aub1 8, aub1 9
+  Object [A0KM] was changed
+    Conflicting modification IDs were... 
+      atp1 1
+  Object [A0LS] was changed
+    Conflicting modification IDs were... 
+      arut, atp1 1, atp1 10, atp1 2, atp1 3, atp1 4, atp1 5, atp1 6, atp1 7, atp1 8, atp1 9, aub1 1, aub1 10, aub1 2, aub1 3, aub1 4, aub1 5, aub1 6, aub1 7, aub1 8, aub1 9
+  Object [A0MH] was changed
+    Conflicting modification IDs were... 
+      aub1 1, aub1 2
+  Object [A0MM] was changed
+    Conflicting modification IDs were... 
+      ata0
+  Object [A0O1] was changed
+    Conflicting modification IDs were... 
+      aret, arut, atp1 1, atp1 10, atp1 2, atp1 3, atp1 4, atp1 5, atp1 6, atp1 7, atp1 8, atp1 9, aub1 1, aub1 10, aub1 2, aub1 3, aub1 4, aub1 5, aub1 6, aub1 7, aub1 8, aub1 9
+  Object [A0PC] was changed
+    Conflicting modification IDs were... 
+      aret, arut, atp1 1, atp1 10, atp1 2, atp1 3, atp1 4, atp1 5, atp1 6, atp1 7, atp1 8, atp1 9, aub1 1, aub1 10, aub1 2, aub1 3, aub1 4, aub1 5, aub1 6, aub1 7, aub1 8, aub1 9
+  Object [A0PR] was changed
+    Conflicting modification IDs were... 
+      aret, arut, atp1 1, atp1 10, atp1 2, atp1 3, atp1 4, atp1 5, atp1 6, atp1 7, atp1 8, atp1 9, aub1 1, aub1 10, aub1 2, aub1 3, aub1 4, aub1 5, aub1 6, aub1 7, aub1 8, aub1 9
+  Object [A0QB] was changed
+    Conflicting modification IDs were... 
+      aret, atp1 1, atp1 2, atp1 3, atp1 4, atp1 5, atp1 6, atp1 7, atp1 8, atp1 9
+  Object [A0QC] was changed
+    Conflicting modification IDs were... 
+      aret, atp1 1, atp1 2, atp1 3, atp1 4, atp1 5, atp1 6, atp1 7, atp1 8, atp1 9
+  Object [A0OD] was changed
+    Conflicting modification IDs were... 
+      aret, arut, atp1 1, atp1 10, atp1 2, atp1 3, atp1 4, atp1 5, atp1 6, atp1 7, atp1 8, atp1 9, aub1 1, aub1 10, aub1 2, aub1 3, aub1 4, aub1 5, aub1 6, aub1 7, aub1 8, aub1 9
+  Object [A0RC] was changed
+    Conflicting modification IDs were... 
+      aret, arut, atp1 1, atp1 10, atp1 2, atp1 3, atp1 4, atp1 5, atp1 6, atp1 7, atp1 8, atp1 9, aub1 1, aub1 10, aub1 2, aub1 3, aub1 4, aub1 5, aub1 6, aub1 7, aub1 8, aub1 9
+  Object [A0S3] was changed
+    Conflicting modification IDs were... 
+      anam, arac
+  Object [A0OA] was changed
+    Conflicting modification IDs were... 
+      ahky, arhk
+  Object [A0T9] was changed
+    Conflicting modification IDs were... 
+      aret, arhk, arut, atp1 1, atp1 10, atp1 2, atp1 3, atp1 4, atp1 5, atp1 6, atp1 7, atp1 8, atp1 9, aub1 1, aub1 10, aub1 2, aub1 3, aub1 4, aub1 5, aub1 6, aub1 7, aub1 8, aub1 9
+  Object [A0TD] was changed
+    Conflicting modification IDs were... 
+      ahky, arhk
+  Object [A0TQ] was changed
+    Conflicting modification IDs were... 
+      ahky, arhk
+  Object [A0TV] was changed
+    Conflicting modification IDs were... 
+      ahky, arhk
+  Object [A0TZ] was changed
+    Conflicting modification IDs were... 
+      ahky, auhk
+  Object [A0UN] was changed
+    Conflicting modification IDs were... 
+      ahky, arhk
+  Object [A0UP] was changed
+    Conflicting modification IDs were... 
+      ahky, arhk
+Searching for added abilities
+  Object [A0UR] was added
+  Object [A0UU] was added
+  Object [A0UW] was added
+  Object [A0UQ] was added
+  Object [A0US] was added
+  Object [A0UV] was added
+  Object [A0UT] was added
+  Object [A0UX] was added
+  Object [A0UY] was added
+  Object [A0UZ] was added
+Searching for removed items
+Searching for changed items
+  Object [I04R] was changed
+    Conflicting modification IDs were... 
+      utub
+  Object [I03R] was changed
+    Conflicting modification IDs were... 
+      utub
+  Object [I0AK] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0AL] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0AM] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0AN] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0AO] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0AP] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0AR] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0AS] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0AT] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0BV] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0BW] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0BX] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0BY] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0BZ] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0C0] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0C1] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0C2] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0C3] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0C4] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0C5] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0C6] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0C7] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0C8] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0C9] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0CA] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0CB] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0CC] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0CD] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0CE] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0CF] was changed
+    Conflicting modification IDs were... 
+      ides, utub
+  Object [I0CG] was changed
+    Conflicting modification IDs were... 
+      ides, utub
+  Object [I0CH] was changed
+    Conflicting modification IDs were... 
+      ides, utub
+  Object [I0CI] was changed
+    Conflicting modification IDs were... 
+      ides, utub
+  Object [I0CW] was changed
+    Conflicting modification IDs were... 
+      utub
+  Object [I0CX] was changed
+    Conflicting modification IDs were... 
+      utub
+  Object [I0D4] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0D6] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0D7] was changed
+    Conflicting modification IDs were... 
+      ides, utub
+  Object [I0D8] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0D9] was changed
+    Conflicting modification IDs were... 
+      iabi, utub
+  Object [I039] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I047] was changed
+    Conflicting modification IDs were... 
+      ides, utub
+  Object [I04F] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I04T] was changed
+    Conflicting modification IDs were... 
+      utub
+  Object [I0DX] was changed
+    Conflicting modification IDs were... 
+      utub
+  Object [I0E5] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0E6] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0E7] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0E8] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0E9] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0EP] was changed
+    Conflicting modification IDs were... 
+      utub
+  Object [I0EQ] was changed
+    Conflicting modification IDs were... 
+      iabi, utub
+  Object [I0EZ] was changed
+    Conflicting modification IDs were... 
+      iabi, utub
+  Object [I0F1] was changed
+    Conflicting modification IDs were... 
+      ides, utub
+  Object [I0F2] was changed
+    Conflicting modification IDs were... 
+      ides
+  Object [I0F3] was changed
+    Conflicting modification IDs were... 
+      utub
+Searching for added items
+  Object [I0F9] was added
+  Object [I0FA] was added
+  Object [I0FB] was added
+  Object [I0FC] was added
+  Object [I0FD] was added
+  Object [I0FE] was added
+  Object [I0FF] was added
+  Object [I0FG] was added
+Searching for removed buffs
+Searching for changed buffs
+  Object [B004] was changed
+    Conflicting modification IDs were... 
+      fart
+Searching for added buffs
+  Object [B02X] was added
+  Object [B02Y] was added
+  Object [B02Z] was added
+Searching for removed upgrades
+Searching for changed upgrades
+Searching for added upgrades
