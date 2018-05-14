@@ -173,7 +173,7 @@ Same as before, Wcstrings should have already replaced those files in the map.
 
 You can now try out the map!
 
-# I Have tried the translated map but all of my items were left untranslated, although all abilities were indeed translated
+# I have tried the translated map but all of my items were left untranslated, although all abilities were indeed translated
 
 This means that you have made a mistake in translating the items file, so wcstrings couldn't parse it correctly and was ignored. Without a lua sintax checker, finding this is almost impossible. Run the lua sintax checker on the file that is giving problems and check if there is any mistake mentioned
 
