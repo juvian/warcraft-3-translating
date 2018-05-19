@@ -31,14 +31,14 @@ Close MPQ Editor, we just used it to check if it was read-only or not.
 
 Create a folder with the name of the map such as Eden Rpg. Create a folder inside it called Wcstrings. Place wcstring files inside it. Make another folder with name of the map + its version such as Eden Rpg 3.2. Place the map file inside this folder. The structure should look like this:
 
-Eden Rpg
-  |-- Eden Rpg 3.2
-         |-- Eden Rpg 3.2.w3x
-  |-- Wcstrings
-         |-- wcstrings.exe
-         |-- wcstrings manual.txt
-         |-- lua51
-         |-- blacklist.txt
+* Eden Rpg  
+  + Eden Rpg 3.2  
+         + Eden Rpg 3.2.w3x  
+  + Wcstrings  
+         + wcstrings.exe  
+         + wcstrings manual.txt  
+         + lua51  
+         + blacklist.txt  
          
 # Using wcstrings
 
