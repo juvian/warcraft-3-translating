@@ -4,7 +4,7 @@ This is a guide intended for translating a wacraft 3 map when you are not the ow
 
 # Tools Needed
 1. MPQ Editor: http://www.zezula.net/en/mpq/download.html
-2. Wcstrings: http://clanufw.darkbb.com/t846-wcstrings-porting-translations-tool
+2. [Wcstrings](wcstrings.zip)
 3. A text editor. Recommended: sublime text 3 or notepad++
 
 # Recommended Tools
