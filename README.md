@@ -10,6 +10,9 @@ This is a guide intended for translating a wacraft 3 map when you are not the ow
 # Recommended Tools
 1. A lua language sintax checker. There are plugins for sublime and notepad++ that support this
 
+# Detailed Video Guide
+Magepowers has [a detailed video](https://www.youtube.com/watch?v=UVPjipvKxus) on the translation process using wcstrings.
+
 # Introduction
 A warcraft map is stored in a format called MPQ, which is like a zip that has a lot of files inside it. To be able to view these files, you can use MPQ Editor. Open MPQ Editor and click on open mpq:
 
