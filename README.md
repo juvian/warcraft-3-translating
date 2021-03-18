@@ -2,6 +2,9 @@
 
 This is a guide intended for translating a wacraft 3 map when you are not the owner of such map (there are ways to make a map be multilanguage if you are the developer of it).
 
+# Update
+I now made [my own tool](https://github.com/juvian/wc3-translate) for translating, so might want to check that instead.
+
 # Tools Needed
 1. MPQ Editor: http://www.zezula.net/en/mpq/download.html
 2. [Wcstrings](wcstrings.zip)
